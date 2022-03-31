@@ -12,6 +12,7 @@
     "@casl/vue": "^2.1.2",
     "axios": "^0.25.0",
     "core-js": "^3.6.5",
+    "exceljs": "^4.3.0",
     "vue": "^3.0.0",
     "vue-route-middleware": "^1.0.7",
     "vue-router": "^4.0.0-0",
