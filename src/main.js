@@ -2,6 +2,9 @@ import { createApp }        from 'vue'
 import VueSweetalert2       from 'vue-sweetalert2';
 import { abilitiesPlugin }  from '@casl/vue';
 import abilities            from './Services/abilities';
+
+import "bootstrap/dist/css/bootstrap.min.css"
+import "bootstrap"
 import 'sweetalert2/dist/sweetalert2.min.css';
 
 import App          from './App.vue'
